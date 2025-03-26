@@ -26,7 +26,7 @@ function App() {
     });
   }, []);
 
-  useDocTitle("MLD | Molad e Konsult - Bespoke Web and Mobile Applications");
+  useDocTitle("Elevare");
 
   return (
     <>
@@ -35,7 +35,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/contact" element={<DemoProduct />} />
-            <Route path="/demo" element={<DemoProduct />} />
+            <Route path="/get-demo" element={<DemoProduct />} />
           </Routes>
         </ScrollToTop>
       </Router>
