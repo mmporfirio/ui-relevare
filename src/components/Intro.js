@@ -28,7 +28,14 @@ const Intro = () => {
             </div>
 
             <div>
-              <p className="my-3 text-xl text-[#5e5e5e]"></p>
+              <p className="my-3 text-xl text-[#5e5e5e]">
+                Escolher a estratégia de marketing certa para o seu negócio pode
+                ser simples quando você sabe onde focar. Uma análise aprofundada
+                do seu público-alvo e das tendências do mercado é fundamental
+                para criar campanhas eficazes. Além disso, é essencial ter
+                ferramentas de monitoramento e métricas claras para acompanhar
+                os resultados e ajustar as ações de forma assertiva.
+              </p>
             </div>
             <Link
               to="/contact"
