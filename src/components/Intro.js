@@ -28,13 +28,7 @@ const Intro = () => {
             </div>
 
             <div>
-              <p className="my-3 text-xl text-[#5e5e5e]">
-                Choosing a suitable theme for your business isn’t hard if you
-                know what to look for. A solid bundled contact form plugin
-                enables customers to make contact with you, and a means of
-                displaying your business and location information prominently is
-                also essential.
-              </p>
+              <p className="my-3 text-xl text-[#5e5e5e]"></p>
             </div>
             <Link
               to="/contact"
