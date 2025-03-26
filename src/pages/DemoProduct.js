@@ -4,8 +4,6 @@ import Footer from "../components/Footer";
 import { useDocTitle } from "../components/CustomHook";
 
 const DemoProduct = (props) => {
-  useDocTitle("MLD | Molad e Konsult - Demo our products");
-
   const [firstName, setFirstName] = useState("");
   const [lastName, setLastName] = useState("");
   const [email, setEmail] = useState("");
