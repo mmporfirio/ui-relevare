@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import NavBar from "../components/Navbar/NavBar";
 import Footer from "../components/Footer";
-import { useDocTitle } from "../components/CustomHook";
 
 const DemoProduct = (props) => {
   const [firstName, setFirstName] = useState("");
